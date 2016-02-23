@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\Regula False Yöntemi\Regula False Yöntemi\bin\Debug\Regula False Yöntemi.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Regula False Yöntemi\Regula False Yöntemi\bin\Debug\Regula False Yöntemi.exe
+\\mac\home\documents\visual studio 2015\Projects\Regula False Yöntemi\Regula False Yöntemi\bin\Debug\Regula False Yöntemi.pdb
+\\mac\home\documents\visual studio 2015\Projects\Regula False Yöntemi\Regula False Yöntemi\obj\Debug\Regula False Yöntemi.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Regula False Yöntemi\Regula False Yöntemi\obj\Debug\Regula_False_Yöntemi.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\Regula False Yöntemi\Regula False Yöntemi\obj\Debug\Regula_False_Yöntemi.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\Regula False Yöntemi\Regula False Yöntemi\obj\Debug\Regula False Yöntemi.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\Regula False Yöntemi\Regula False Yöntemi\obj\Debug\Regula False Yöntemi.exe
+\\mac\home\documents\visual studio 2015\Projects\Regula False Yöntemi\Regula False Yöntemi\obj\Debug\Regula False Yöntemi.pdb

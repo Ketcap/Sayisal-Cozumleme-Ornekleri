@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\Sekant Yöntemi\Sekant Yöntemi\bin\Debug\Sekant Yöntemi.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Sekant Yöntemi\Sekant Yöntemi\bin\Debug\Sekant Yöntemi.exe
+\\mac\home\documents\visual studio 2015\Projects\Sekant Yöntemi\Sekant Yöntemi\bin\Debug\Sekant Yöntemi.pdb
+\\mac\home\documents\visual studio 2015\Projects\Sekant Yöntemi\Sekant Yöntemi\obj\Debug\Sekant Yöntemi.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Sekant Yöntemi\Sekant Yöntemi\obj\Debug\Sekant_Yöntemi.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\Sekant Yöntemi\Sekant Yöntemi\obj\Debug\Sekant_Yöntemi.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\Sekant Yöntemi\Sekant Yöntemi\obj\Debug\Sekant Yöntemi.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\Sekant Yöntemi\Sekant Yöntemi\obj\Debug\Sekant Yöntemi.exe
+\\mac\home\documents\visual studio 2015\Projects\Sekant Yöntemi\Sekant Yöntemi\obj\Debug\Sekant Yöntemi.pdb
